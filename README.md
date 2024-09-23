@@ -1,35 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eye-Blink Controlled Virtual Keyboard - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 5px;
-            border-radius: 5px;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-        ul {
-            margin-left: 20px;
-        }
-    </style>
-</head>
-<body>
 
 <h1>Eye-Blink Controlled Virtual Keyboard</h1>
 <p>This project allows the creation of a virtual keyboard controlled by eye blinks using computer vision and facial landmark detection via the <code>dlib</code> library. The program captures real-time video from your webcam, tracks your face and eyes, and allows you to select keys through blink interactions.</p>
