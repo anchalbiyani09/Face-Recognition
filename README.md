@@ -10,22 +10,6 @@
     <li><a href="http://dlib.net/" target="_blank">dlib</a></li>
 </ul>
 
-<h2>Installation and Setup</h2>
-<ol>
-    <li>Clone the repository and navigate to the project directory:</li>
-    <pre><code>git clone https://github.com/VaidehiDevrukhkar/face-recognition.git
-cd face-recognition
-</code></pre>
-
-    <li>Install the required libraries using pip:</li>
-    <pre><code>pip install opencv-python numpy dlib</code></pre>
-
-    <li>Download the pre-trained facial landmark predictor model file from <a href="http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2" target="_blank">dlib's official website</a> and place it in the project directory.</li>
-
-    <li>Run the script:</li>
-    <pre><code>python face_recognition.py</code></pre>
-</ol>
-
 <h2>How to Use</h2>
 <ol>
     <li>Once the script runs, a window will open showing the camera feed with a rectangular frame around your face.</li>
