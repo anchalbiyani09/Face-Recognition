@@ -35,5 +35,11 @@
 <h2>License</h2>
 <p>This project is released under the MIT License. Feel free to use, modify, and distribute the code as needed.</p>
 
+- ## **Contact**
+For queries or suggestions, feel free to reach out:
+- **Email:** [anchalbiyani09@gmail.com](mailto:anchalbiyani09@gmail.com)  
+- **GitHub:** [Anchal Biyani](https://github.com/anchalbiyani09)
+
+---
 </body>
 </html>
